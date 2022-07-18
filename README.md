@@ -38,6 +38,6 @@ public $cp_ipn_secret = "";
 public $cp_debug_email = "";
 }
 ```
-
-2. Create a coinpayments.net account, generate a new API and merchant ID and set your IPN password. Then, fill in the info for the coinpayment config lines.
-3. Go on https://example.com/admin.php and customize everything to your liking.
+2. Head over to PHPMyAdmin and upload database.sql to setup the database.
+3. Create a coinpayments.net account, generate a new API and merchant ID and set your IPN password. Then, fill in the info for the coinpayment config lines.
+4. Go on https://example.com/admin.php and customize everything to your liking.
