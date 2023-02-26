@@ -1,5 +1,6 @@
 # SatoshiBox Clone
 PHP Website script that allows users to sell files for Bitcoin. Admin panel included.
+This is not my code, it's a script that is being sold that was leaked.
 
 # Setup
 
